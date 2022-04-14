@@ -3,15 +3,14 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-+ Team ##
++ Team 20
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ team member 1: He, Lichun (lh3094@columbia.edu)
+	+ team member 2: Zhang, Yuqi (yz4091@columbia.edu)
+	+ team member 3: Huang, Lei (lh3091@columbia.edu)
+	+ team member 4: Mei, Haishan (hm2842@columbia.edu)
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we created a house prices prediction model based on the dataset generated from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
