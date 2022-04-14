@@ -1,7 +1,7 @@
 # Project 1: House Prices Prediction
 
 
-### [Full Project Description](doc/project3_desc.md)
+### [Full Project Description](doc/project_desc.md)
 
 + Team 20
 + Team members
