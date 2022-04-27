@@ -1,4 +1,4 @@
-# GR5293 EODS – Project 1:  House Prices Prediction
+# GR5293 EODS – Project:  House Prices Prediction
 
 ### Code dev/lib Folder
 
